@@ -23,5 +23,7 @@
     "xml",
     "zip",
     "xmlwriter",
-    "xmlreader"
+    "xmlreader",
+    "sodium",
+    "grpc"
 ]
